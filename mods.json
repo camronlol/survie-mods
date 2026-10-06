@@ -1,3 +1,560 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "fichier": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha256": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2"
+    },
+    {
+      "fichier": "alexsmobs-1.22.9.jar",
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+    },
+    {
+      "fichier": "AmbientSounds_FORGE_v6.3.9_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/EPxVyOnf/AmbientSounds_FORGE_v6.3.9_mc1.20.1.jar",
+      "sha256": "206689da1152bd781032553be6632e8091e0cb046a7a56ba12d1068a63766671"
+    },
+    {
+      "fichier": "amendments-1.20-2.2.6.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/nJORWvdh/amendments-1.20-2.2.6.jar",
+      "sha256": "46c7e1276bc77a0843267a6aeee381af61f16bedc7949447fff49eeb7aeb7917"
+    },
+    {
+      "fichier": "AnimaticaReforged-1.20.1-0.1.2.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/AnimaticaReforged-1.20.1-0.1.2.jar"
+    },
+    {
+      "fichier": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+    },
+    {
+      "fichier": "architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+    },
+    {
+      "fichier": "artifacts-forge-9.5.19.jar",
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lrLPBSzq/artifacts-forge-9.5.19.jar",
+      "sha256": "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0"
+    },
+    {
+      "fichier": "baguettelib-1.20.1-Forge-2.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/mq1VyENB/baguettelib-1.20.1-Forge-2.0.7.jar",
+      "sha256": "ee4f97eff5bba00e37ea1ab72608b8fdf65964741eaf29a91b030bc5a80dbc9b"
+    },
+    {
+      "fichier": "balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/dDN38ae7/balm-forge-1.20.1-7.3.44.jar",
+      "sha256": "c9dc421214fa3eccdcd5ad4d8974a422acef09396f5ee0f6250ae44cf5902810"
+    },
+    {
+      "fichier": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/jxUqRzSD/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "sha256": "84bbfe8fa25a453dae3a8e6c46e8e129f48f7d9df58e33bb7f3d28b90f591b3f"
+    },
+    {
+      "fichier": "blockui-1.20.1-1.0.194-snapshot.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/blockui-1.20.1-1.0.194-snapshot.jar"
+    },
+    {
+      "fichier": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha256": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
+    },
+    {
+      "fichier": "chat_heads-0.15.7-forge-1.20.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UJALMfLK/chat_heads-0.15.7-forge-1.20.jar",
+      "sha256": "1cfed5826ca81787618dde3d8e52fdf06068a76712d45327ec36046229f955e7"
+    },
+    {
+      "fichier": "chatanimation-forge-1.3.4+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/fTHsrovM/chatanimation-forge-1.3.4%2Bmc1.20.1.jar",
+      "sha256": "29bbe9cd37ccb96764f5e57ff93c3db0c2c8b072414288f986000a7320bc671c"
+    },
+    {
+      "fichier": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+    },
+    {
+      "fichier": "cloth-config-11.1.136-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "fichier": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha256": "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
+    },
+    {
+      "fichier": "COP-Create+6.0.7-3.1.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/COP-Create+6.0.7-3.1.jar"
+    },
+    {
+      "fichier": "copycats-3.0.10+mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LlMxIysb/copycats-3.0.10%2Bmc.1.20.1-forge.jar",
+      "sha256": "684a7a65a576d84bee4250b3cc10ddcaa66958cee05b541b1cd99df8bdc0185e"
+    },
+    {
+      "fichier": "Corgilib-Forge-1.20.1-4.0.3.5.jar",
+      "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/HXTB2EAy/Corgilib-Forge-1.20.1-4.0.3.5.jar",
+      "sha256": "6879c214e0793278e14105b70d085ba218551c39daa78c846273030278bef350"
+    },
+    {
+      "fichier": "create-1.20.1-6.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+    },
+    {
+      "fichier": "create-enchantment-industry-2.5.4.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/HM5htsU7/create-enchantment-industry-2.5.4.jar",
+      "sha256": "4a01792ae569370990431cfdf5c649cb4979095ac41ff3606090830cb3bdd24b"
+    },
+    {
+      "fichier": "Create-Unify-1.20.1-1.0a.Release.jar",
+      "url": "https://cdn.modrinth.com/data/fmHq5iI6/versions/n75f2vFA/Create-Unify-1.20.1-1.0a.Release.jar",
+      "sha256": "7e92354cec892866344034ada5ee52368cbfbd9dfbe3cc618b30df38c1a9d82c"
+    },
+    {
+      "fichier": "create_connected-1.2.3-mc1.20.1-all.jar",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/6gnvaVkN/create_connected-1.2.3-mc1.20.1-all.jar",
+      "sha256": "5f584f118f2bda3dfeed8b8fc9198ea143c6988e2f6f04eb63f42c0da8b50e63"
+    },
+    {
+      "fichier": "createaddition-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
+      "sha256": "9bf3ae15d86ec95d128542caf10e4b5498e49ca02f725b9302d6daecd5eae1db"
+    },
+    {
+      "fichier": "createbetterfps-1.20.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/75GMC9GD/createbetterfps-1.20.1-1.1.2.jar",
+      "sha256": "6ae7511fc3c911168713d6281cd823eca8931a512f5f50917506e317bac640b3"
+    },
+    {
+      "fichier": "createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/ZRgu5o3x/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "sha256": "11845f0d79a9014977f667a57b14d0527928bee8b66bc6b50bedcc29ee81878a"
+    },
+    {
+      "fichier": "createbiggerstoragetocreate6-1.1.jar",
+      "url": "https://cdn.modrinth.com/data/s6cUjOyg/versions/VqbTNp0V/createbiggerstoragetocreate6-1.1.jar",
+      "sha256": "5368e3ac5dda085e366f2f85b168694d8eec3f20600582e9340193171611f850"
+    },
+    {
+      "fichier": "createcontraptionterminals-1.20-1.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/gOPAFzp0/versions/Rdo5tUmb/createcontraptionterminals-1.20-1.2.0.jar",
+      "sha256": "b4ef1e5cc4bef1c6c8bb24c080f2ff585ad21bc6ce8d8caaebe156fb1e00ab22"
+    },
+    {
+      "fichier": "createdieselgenerators-1.20.1-1.3.12.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/DTQVvA5H/createdieselgenerators-1.20.1-1.3.12.jar",
+      "sha256": "808e87b98ea9d42a43096a113a7fa1a89c65bee95608855c6cfe2914d6f1f642"
+    },
+    {
+      "fichier": "CreateDragonsPlus-1.11.9.jar",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/eMalpJtP/CreateDragonsPlus-1.11.9.jar",
+      "sha256": "9f22fef1c96558d54f497efcdfc525d06918fe619c5494a951b936b3b0e2a2ec"
+    },
+    {
+      "fichier": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ChKayKur/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4"
+    },
+    {
+      "fichier": "creeperoverhaul-3.0.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar",
+      "sha256": "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9"
+    },
+    {
+      "fichier": "cristellib-1.1.6-forge.jar",
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar",
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f"
+    },
+    {
+      "fichier": "crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/HurxN6RE/crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "sha256": "468bdf80d5a38bd1389be28c39ed0016d62078bd81f82577f1dbd54aae672c33"
+    },
+    {
+      "fichier": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+    },
+    {
+      "fichier": "CustomSkinLoader_Universal-15.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/OLaesh5y/CustomSkinLoader_Universal-15.0.1.jar",
+      "sha256": "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"
+    },
+    {
+      "fichier": "cutc6-1.0.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/twtKrcdy/versions/e0NZMoQG/cutc6-1.0.0-all.jar",
+      "sha256": "541fd838094e7c5a3302471558e6cfbed265511a0773ceab6526e4f4f1662c93"
+    },
+    {
+      "fichier": "domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar"
+    },
+    {
+      "fichier": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/6hQpx5Tc/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
+    },
+    {
+      "fichier": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+      "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920"
+    },
+    {
+      "fichier": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+    },
+    {
+      "fichier": "EnhancedVisuals_FORGE_v1.8.32_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/nf9HATCf/EnhancedVisuals_FORGE_v1.8.32_mc1.20.1.jar",
+      "sha256": "926e9c5e0035f4a671929b00a16141996dca2812644eaa334f5dfee6fa1ab186"
+    },
+    {
+      "fichier": "FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/SiIpcZzM/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce"
+    },
+    {
+      "fichier": "fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/AqaB0PbS/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "sha256": "559115ba1031affa8733c89c4558f44cc97471210f28de7437270684b4242f7a"
+    },
+    {
+      "fichier": "ferritecore-6.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "fichier": "geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
+    },
+    {
+      "fichier": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha256": "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
+    },
+    {
+      "fichier": "gravestone-forge-1.20.1-1.0.35.jar",
+      "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/q9kZE5Xo/gravestone-forge-1.20.1-1.0.35.jar",
+      "sha256": "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387"
+    },
+    {
+      "fichier": "gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/NaiL8bPN/versions/hP20517C/gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+      "sha256": "d9e5e5fb661e1efdd62fc5a7e6bd5a32667447aa74140e40389095401bb8ba93"
+    },
+    {
+      "fichier": "Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar",
+      "sha256": "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026"
+    },
+    {
+      "fichier": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
+    },
+    {
+      "fichier": "immersive_aircraft-1.5.0+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/aDUlOdzA/immersive_aircraft-1.5.0%2B1.20.1-forge.jar",
+      "sha256": "7e00754f893d910f301134e0cada37dde0be36c8df15ebf98a5b6512fa664077"
+    },
+    {
+      "fichier": "interiors-1.20.1-forge-0.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/3Gpm5qDT/interiors-1.20.1-forge-0.6.0.jar",
+      "sha256": "22d256df6dc6249e3421c0cffd1aa4454434fe840401171d288baa2da7dfd441"
+    },
+    {
+      "fichier": "InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/CrtAI3P9/InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "sha256": "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343"
+    },
+    {
+      "fichier": "ItemBorders-1.20.1-forge-1.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/JUW31p4D/ItemBorders-1.20.1-forge-1.2.2.jar",
+      "sha256": "23710606b68c5367ef28d2efa55d8efc4a7d1df8ac1f232e4327977cd1a16b56"
+    },
+    {
+      "fichier": "Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4"
+    },
+    {
+      "fichier": "jei-1.20.1-forge-15.62.0.219.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uyTkeINn/jei-1.20.1-forge-15.62.0.219.jar",
+      "sha256": "e05b2427251d26fc6d15d7af65f918d0f00b4cc317ffa22e6d83c65d4ec8ead9"
+    },
+    {
+      "fichier": "journeymap-forge-1.20.1-6.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/HWDC99DO/journeymap-forge-1.20.1-6.0.7.jar",
+      "sha256": "65cf198bd2ec41b2c1ac24a28544dddc74d5ef63222ebf3d393b76fa7bdc7a23"
+    },
+    {
+      "fichier": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "fichier": "libIPN-forge-1.20-4.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pdAXmKcS/libIPN-forge-1.20-4.0.2.jar",
+      "sha256": "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+    },
+    {
+      "fichier": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha256": "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
+    },
+    {
+      "fichier": "lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mWTXC1ZX/lootr-forge-1.20-0.7.35.94.jar",
+      "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+    },
+    {
+      "fichier": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+    },
+    {
+      "fichier": "mezz_config-1.20.1-forge-0.6.8.jar",
+      "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/EAG7rQQs/mezz_config-1.20.1-forge-0.6.8.jar",
+      "sha256": "93d04b64ed5120350aed8a6d25efe5703fdbc720c233d7da3274feafd076c7e1"
+    },
+    {
+      "fichier": "minecolonies-1.20.1-1.1.1301.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/minecolonies-1.20.1-1.1.1301.jar"
+    },
+    {
+      "fichier": "moonlight-1.20-2.16.35-forge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/W0ZWjZib/moonlight-1.20-2.16.35-forge.jar",
+      "sha256": "55e60e041318c5fabcb02d41e989db2c8b784ba7a991525fa461c6522a67719e"
+    },
+    {
+      "fichier": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+    },
+    {
+      "fichier": "multipiston-1.20-0.0.47-snapshot.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/multipiston-1.20-0.0.47-snapshot.jar"
+    },
+    {
+      "fichier": "naturalist-5.0pre4+forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/wnR21jg1/naturalist-5.0pre4%2Bforge-1.20.1.jar",
+      "sha256": "867c552a388691d8571d88609a93f757b14075838cfbf1d8484a60f392130903"
+    },
+    {
+      "fichier": "NaturesAura-39.4.jar",
+      "url": "https://cdn.modrinth.com/data/4cJkN3aF/versions/8UiPp0gC/NaturesAura-39.4.jar",
+      "sha256": "df1c4dffce5d02695031c674e6fd7b34b8a67cece88400c48e942bb27b8fff6d"
+    },
+    {
+      "fichier": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+      "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/eRSDvCjN/NaturesCompass-1.20.1-1.12.0-forge.jar",
+      "sha256": "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197"
+    },
+    {
+      "fichier": "notenoughanimations-forge-1.12.6-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/kGjMleOz/notenoughanimations-forge-1.12.6-mc1.20.1.jar",
+      "sha256": "66f1f6d61102dd03a4afafe4c9f1d39be9e55dabc8d0821cb46acca1328b525d"
+    },
+    {
+      "fichier": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+    },
+    {
+      "fichier": "Oh-The-Biomes-Weve-Gone-Forge-1.8.1.jar",
+      "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/v0bVw0jU/Oh-The-Biomes-Weve-Gone-Forge-1.8.1.jar",
+      "sha256": "a398395d3669a2230d36af7a066e2690903cb6a31ed70f8f9d96dcf9a7482c5e"
+    },
+    {
+      "fichier": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.2.jar",
+      "url": "https://cdn.modrinth.com/data/g8NOG5OR/versions/Hhq43xPd/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.2.jar",
+      "sha256": "16c24625685a9ea4ec6004ea110d02c0d853f561035407c46635df87e8d393b8"
+    },
+    {
+      "fichier": "particlerain-4.0.0-beta.11+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8QKds2Nf/particlerain-4.0.0-beta.11%2B1.20.1-forge.jar",
+      "sha256": "d0a0cfde04071f186c43bd5b18ccfac3a247d8c74ca334b5cf36e1288532dc5a"
+    },
+    {
+      "fichier": "Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+    },
+    {
+      "fichier": "Prism-1.20.1-forge-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+      "sha256": "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"
+    },
+    {
+      "fichier": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
+    },
+    {
+      "fichier": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+    },
+    {
+      "fichier": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/B3pb093D/versions/PdGBsNte/ritchiesprojectilelib-2.1.1%2Bmc.1.20.1-forge.jar",
+      "sha256": "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
+    },
+    {
+      "fichier": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/F06DXCMX/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"
+    },
+    {
+      "fichier": "sliceanddice-forge-3.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-forge-3.6.0.jar",
+      "sha256": "bafdcbeda044603b59eb16059829a6698c1a58d1ce865b8658e598f2718d315a"
+    },
+    {
+      "fichier": "sophisticatedbackpacks-1.20.1-3.26.6.2176.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/1umN9rSN/sophisticatedbackpacks-1.20.1-3.26.6.2176.jar",
+      "sha256": "f281ccddd99caee06f45e1e4ffb02c17b1dd56cdd03999eccae745570ce6520a"
+    },
+    {
+      "fichier": "sophisticatedcore-1.20.1-1.5.4.2362.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/XQog8w6A/sophisticatedcore-1.20.1-1.5.4.2362.jar",
+      "sha256": "e4a1f4f41293af59bb7486c41a965e3585d614217e934059abcca19a095eb594"
+    },
+    {
+      "fichier": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108"
+    },
+    {
+      "fichier": "Steam_Rails-1.7.3+forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/7Uk6lWkU/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar",
+      "sha256": "0e98b72472ff78464f6e69025bb47f942e7f66a976382fbb87ceff765a8b00cf"
+    },
+    {
+      "fichier": "structurize-1.20.1-1.0.821-snapshot.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/structurize-1.20.1-1.0.821-snapshot.jar"
+    },
+    {
+      "fichier": "supplementaries-1.20-3.1.43-forge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/S0TIJ1hU/supplementaries-1.20-3.1.43-forge.jar",
+      "sha256": "6132fc23a2fe1da0ca57439b35526ee9a1a8d898397ff8e61b2d08fb951cdf6a"
+    },
+    {
+      "fichier": "tectonic-3.0.17-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/KLmvRxwh/tectonic-3.0.17-forge-1.20.1.jar",
+      "sha256": "c6de479b27cf090510de3f029918afc9fe17226981bd703e0002f7a25f4d8969"
+    },
+    {
+      "fichier": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    },
+    {
+      "fichier": "TerraBlender-forge-1.20.1-3.0.1.11.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/IfcgopfA/TerraBlender-forge-1.20.1-3.0.1.11.jar",
+      "sha256": "63da472e55998162159ef3038ee9561bf5c23a4430e4155301cbecbf65d1e80a"
+    },
+    {
+      "fichier": "toms_storage-1.20-1.7.1.jar",
+      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/XELeoPjZ/toms_storage-1.20-1.7.1.jar",
+      "sha256": "08552be86f960111e501227707dc089c91b8a55f6c1be09baee188338576ff9b"
+    },
+    {
+      "fichier": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984"
+    },
+    {
+      "fichier": "towntalk-1.20.1-1.1.0.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/towntalk-1.20.1-1.1.0.jar"
+    },
+    {
+      "fichier": "waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Y0IgdaoP/waystones-forge-1.20.1-14.1.21.jar",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80"
+    },
+    {
+      "fichier": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+    },
+    {
+      "fichier": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"
+    },
+    {
+      "fichier": "YungsBetterCaves-1.20.1-Forge-2.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/Dfu00ggU/versions/BO1vVvun/YungsBetterCaves-1.20.1-Forge-2.0.7.jar",
+      "sha256": "928054e107c9051ab0e4f5c6beb114ce9e2a1521067cf07e88330052998a9ea0"
+    },
+    {
+      "fichier": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/lRK2ZA9U/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha256": "5a74294725232c665b908af6e25224d111550cf69d74613e415b9f48ff150d16"
+    },
+    {
+      "fichier": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha256": "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5"
+    },
+    {
+      "fichier": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83"
+    },
+    {
+      "fichier": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha256": "728c0a807742356887edf7d4f736b3870b7c84007ec9c495c27da1dc0b61078d"
+    },
+    {
+      "fichier": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha256": "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc"
+    },
+    {
+      "fichier": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha256": "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51"
+    },
+    {
+      "fichier": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha256": "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae"
+    },
+    {
+      "fichier": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha256": "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4"
+    },
+    {
+      "fichier": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/mwlYB7rq/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "sha256": "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71"
+    },
+    {
+      "fichier": "YungsBridges-1.20-Forge-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/KgO1gfM2/YungsBridges-1.20-Forge-4.0.3.jar",
+      "sha256": "728e49e81a088291c75835130f59357fe772d77c1f2de91c63872579d5485f6c"
+    },
+    {
+      "fichier": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/cs7iGVq1/versions/UzIwhtOp/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "sha256": "b799668cbbc0903e885f5b638119d0221186e5dbfe812eaf391f86ab8a97bd42"
+    },
+    {
+      "fichier": "YungsExtras-1.20-Forge-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar",
+      "sha256": "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
+    }
+  ]
 }
