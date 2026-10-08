@@ -1,0 +1,19 @@
+name: Vérifier mods.json
+
+on:
+  push:
+    paths: ["mods.json", ".github/**"]
+  pull_request:
+    paths: ["mods.json", ".github/**"]
+  workflow_dispatch:
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vérifier les liens et les empreintes SHA-256
+        run: python .github/scripts/verifier_mods.py --telecharger
