@@ -201,6 +201,11 @@
       "sha256": "3a5e8495da3acb3b331393d5131cef03068ee5df2164828e9c22a472f071455f"
     },
     {
+      "fichier": "dungeon_difficulty-forge-3.8.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/ENZmbSFZ/versions/d56YXb7G/dungeon_difficulty-forge-3.8.0%2B1.20.1.jar",
+      "sha256": "820a3cc2c54a08f8ffec41ddc29856da8501c3f4605b126d0a337ddef5f75149"
+    },
+    {
       "fichier": "DungeonsArise-1.20.x-2.1.58-release.jar",
       "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/6hQpx5Tc/DungeonsArise-1.20.x-2.1.58-release.jar",
       "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
@@ -211,6 +216,11 @@
       "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920"
     },
     {
+      "fichier": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "url": "https://cdn.modrinth.com/data/7YjclEGc/versions/Yyh6uR59/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "sha256": "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
+    },
+    {
       "fichier": "embeddium-0.3.31+mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
@@ -219,6 +229,21 @@
       "fichier": "EnhancedVisuals_FORGE_v1.8.32_mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/nf9HATCf/EnhancedVisuals_FORGE_v1.8.32_mc1.20.1.jar",
       "sha256": "926e9c5e0035f4a671929b00a16141996dca2812644eaa334f5dfee6fa1ab186"
+    },
+    {
+      "fichier": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "sha256": "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66"
+    },
+    {
+      "fichier": "extrasounds-1.5.6+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/YL1apCoc/extrasounds-1.5.6%2B1.20.1-forge.jar",
+      "sha256": "c67783aef93eba20114bd0a5c0d025de02ceefe07b5596828e574c2d99848452"
+    },
+    {
+      "fichier": "FallingTree-1.20.1-4.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar",
+      "sha256": "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69"
     },
     {
       "fichier": "FarmersDelight-1.20.1-1.3.4.jar",
@@ -271,6 +296,16 @@
       "sha256": "7e00754f893d910f301134e0cada37dde0be36c8df15ebf98a5b6512fa664077"
     },
     {
+      "fichier": "immersivemessages-forge-1.0.18-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/6xvrmbjn/versions/4JWF2yfv/immersivemessages-forge-1.0.18-1.20.1.jar",
+      "sha256": "ae135add526bfa94a92f05be11df045d1d808a84014262cd6d771bf92ff63643"
+    },
+    {
+      "fichier": "immersivetips-forge-1.0.2-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/FyiLzCSu/versions/xZGGSV3T/immersivetips-forge-1.0.2-1.20.1.jar",
+      "sha256": "a2ed2f8b55b56208f452782e5391a967ced81e3db89d93263866a55fa1a6f1e7"
+    },
+    {
       "fichier": "interiors-1.20.1-forge-0.6.0.jar",
       "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/3Gpm5qDT/interiors-1.20.1-forge-0.6.0.jar",
       "sha256": "22d256df6dc6249e3421c0cffd1aa4454434fe840401171d288baa2da7dfd441"
@@ -319,6 +354,11 @@
       "fichier": "lootr-forge-1.20-0.7.35.94.jar",
       "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mWTXC1ZX/lootr-forge-1.20-0.7.35.94.jar",
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+    },
+    {
+      "fichier": "many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar",
+      "url": "https://cdn.modrinth.com/data/6kAZrZHA/versions/FyHvIQDi/many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar",
+      "sha256": "9b090293cf1cbbe9ca238dc28234bc7742acf6bd10c5791b633538e1ad3ca68e"
     },
     {
       "fichier": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
@@ -401,6 +441,11 @@
       "sha256": "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"
     },
     {
+      "fichier": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha256": "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
+    },
+    {
       "fichier": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
@@ -409,6 +454,11 @@
       "fichier": "resourcefullib-forge-1.20.1-2.1.29.jar",
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
       "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+    },
+    {
+      "fichier": "Resourcify (1.20.1-forge)-1.8.7.jar",
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/KtHKcv9F/Resourcify%20%281.20.1-forge%29-1.8.7.jar",
+      "sha256": "f358237339ab2cadd846c13f2c4f4f5aaaaaadb97dbed2a73fe55cfe83138c26"
     },
     {
       "fichier": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
@@ -479,6 +529,21 @@
       "fichier": "towntalk-1.20.1-1.1.0.jar",
       "url": "https://github.com/camronlol/survie-mods/releases/download/mods/towntalk-1.20.1-1.1.0.jar",
       "sha256": "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f"
+    },
+    {
+      "fichier": "txnilib-forge-1.0.24-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/kQ8qnDHA/txnilib-forge-1.0.24-1.20.1.jar",
+      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e"
+    },
+    {
+      "fichier": "VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/qaWEHDC3/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
+    },
+    {
+      "fichier": "voicechat-forge-1.20.1-2.6.24.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lWvbAZ3P/voicechat-forge-1.20.1-2.6.24.jar",
+      "sha256": "72fd45aa54616000be2808054258455d0c965897a27608299762f7957ff9ffdd"
     },
     {
       "fichier": "waystones-forge-1.20.1-14.1.21.jar",
@@ -559,6 +624,11 @@
       "fichier": "YungsExtras-1.20-Forge-4.0.3.jar",
       "url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar",
       "sha256": "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
+    },
+    {
+      "fichier": "YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/Hcy2DFKF/versions/3FmFt8jI/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "sha256": "aea6b2a1580029f376ee06025be6fe280cd1bcfa8b91199319d94e19528753f0"
     }
   ]
 }
