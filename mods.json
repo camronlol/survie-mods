@@ -22,7 +22,8 @@
     },
     {
       "fichier": "AnimaticaReforged-1.20.1-0.1.2.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/AnimaticaReforged-1.20.1-0.1.2.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/AnimaticaReforged-1.20.1-0.1.2.jar",
+      "sha256": "af6a7b3b684941a895439c00280cde2fe259f11c2b253d9454537d7d6ac04a41"
     },
     {
       "fichier": "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -56,7 +57,8 @@
     },
     {
       "fichier": "blockui-1.20.1-1.0.194-snapshot.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/blockui-1.20.1-1.0.194-snapshot.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/blockui-1.20.1-1.0.194-snapshot.jar",
+      "sha256": "80f613d9b41753411c290c01b215672c149c51222e993f124dcd1e7720e9de32"
     },
     {
       "fichier": "carryon-forge-1.20.1-2.1.2.7.jar",
@@ -90,7 +92,8 @@
     },
     {
       "fichier": "COP-Create+6.0.7-3.1.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/COP-Create+6.0.7-3.1.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/COP-Create+6.0.7-3.1.jar",
+      "sha256": "4661c4d4518249c6f96e667e0ab80cad7fe2bb426066cc9a13d5fa277877b3b8"
     },
     {
       "fichier": "copycats-3.0.10+mc.1.20.1-forge.jar",
@@ -194,7 +197,8 @@
     },
     {
       "fichier": "domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar",
+      "sha256": "3a5e8495da3acb3b331393d5131cef03068ee5df2164828e9c22a472f071455f"
     },
     {
       "fichier": "DungeonsArise-1.20.x-2.1.58-release.jar",
@@ -328,7 +332,8 @@
     },
     {
       "fichier": "minecolonies-1.20.1-1.1.1301.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/minecolonies-1.20.1-1.1.1301.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/minecolonies-1.20.1-1.1.1301.jar",
+      "sha256": "8538f46fb32abd638767a021240e4c9a5a1413a820b01caec1113fea2eeb9196"
     },
     {
       "fichier": "moonlight-1.20-2.16.35-forge.jar",
@@ -342,7 +347,8 @@
     },
     {
       "fichier": "multipiston-1.20-0.0.47-snapshot.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/multipiston-1.20-0.0.47-snapshot.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/multipiston-1.20-0.0.47-snapshot.jar",
+      "sha256": "ea41ccf857b3dd9cb7b1128f982fa138f1a62fdb6a4995adbd99eff963d71721"
     },
     {
       "fichier": "naturalist-5.0pre4+forge-1.20.1.jar",
@@ -441,7 +447,8 @@
     },
     {
       "fichier": "structurize-1.20.1-1.0.821-snapshot.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/structurize-1.20.1-1.0.821-snapshot.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/structurize-1.20.1-1.0.821-snapshot.jar",
+      "sha256": "50037d77e98e708c573d2f923202cdd400795c91d10bc0232be5d1c55126fe0b"
     },
     {
       "fichier": "supplementaries-1.20-3.1.43-forge.jar",
@@ -470,7 +477,8 @@
     },
     {
       "fichier": "towntalk-1.20.1-1.1.0.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/towntalk-1.20.1-1.1.0.jar"
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/towntalk-1.20.1-1.1.0.jar",
+      "sha256": "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f"
     },
     {
       "fichier": "waystones-forge-1.20.1-14.1.21.jar",
