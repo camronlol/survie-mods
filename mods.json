@@ -261,6 +261,16 @@
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
     },
     {
+      "fichier": "ftb-library-forge-2001.2.13.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/ftb-library-forge-2001.2.13.jar",
+      "sha256": "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
+    },
+    {
+      "fichier": "ftb-ultimine-forge-2001.1.8.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/ftb-ultimine-forge-2001.1.8.jar",
+      "sha256": "b80dde55b2c91fd27f09f15ed2aefb0756c7bd704316e488ae8a06b179e85730"
+    },
+    {
       "fichier": "geckolib-forge-1.20.1-4.8.4.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
       "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
