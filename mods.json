@@ -50,9 +50,9 @@
       "url": "https://github.com/camronlol/survie-mods/releases/download/mods/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
       "sha256": "8c61087aa483f90861451682519582e03fa76e773d855e35180a8ed3428938bc"
     },
-    {
+        {
       "fichier": "CameraOverhaul-v2.1.2-forge-mc1.20-1.20.5.jar",
-      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/CameraOverhaul-v2.1.2-forge-mc1.20-1.20.5.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/CameraOverhaul-v2.1.2-forge%2Bmc.1.20-1.20.5.jar",
       "sha256": "efec2331678c6653e9d43d5ad24a902ec538613fed708843c9431bb72dca844d"
     },
     {
