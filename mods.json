@@ -185,5 +185,15 @@
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KtEupJvB/xaeroworldmap-forge-1.20.1-1.47.0.jar",
       "sha256": "88c6d844163c95a94d92bc6d87d9011cc840bd6207c3099a81b113d4450a3f6b"
     }
+        {
+      "fichier": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+    },
+    {
+      "fichier": "controllable-forge-1.20.1-0.21.9.jar",
+      "url": "https://github.com/camronlol/survie-mods/releases/download/mods/controllable-forge-1.20.1-0.21.9.jar",
+      "sha256": "937f628547fb077ac207ecf1180541c707c26beafa3e98b1ab239ef22bdf2b80"
+    }
   ]
 }
